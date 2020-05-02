@@ -1,0 +1,11 @@
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\bin\Debug\VizeOdeviSezarSifrelemesi.exe.config
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\bin\Debug\VizeOdeviSezarSifrelemesi.exe
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\bin\Debug\VizeOdeviSezarSifrelemesi.pdb
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.csprojAssemblyReference.cache
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.Form1.resources
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.Properties.Resources.resources
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.csproj.GenerateResource.cache
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.exe
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.pdb
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.Form2.resources
+C:\Users\ÇINAR\source\repos\VizeOdeviSezarSifrelemesi\VizeOdeviSezarSifrelemesi\obj\Debug\VizeOdeviSezarSifrelemesi.Form3.resources
